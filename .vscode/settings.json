@@ -2,5 +2,6 @@
     "python.globalModuleInstallation": true,
     "python.autoComplete.extraPaths": [
         
-    ]
+    ],
+    "python.analysis.extraPaths": []
 }
